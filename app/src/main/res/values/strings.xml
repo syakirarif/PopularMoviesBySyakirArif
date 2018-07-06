@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Popular Movies 1</string>
+    <string name="name_movie">Movie Title</string>
+    <string name="plot">Plot Synopsis</string>
+    <string name="rating">Rating Average</string>
+    <string name="release">Release Date</string>
+    <string name="default_here">Default Here</string>
+    <string name="refresh">Refresh</string>
+    <string name="about">About</string>
+    <string name="movie_image_thumbnail">Movie image thumbnail</string>
+
+    <string name="pref_sort_order_label">Change Movie Order</string>
+    <string name="pref_sort_order_key">sortOrder</string>
+    <string name="pref_most_popular">Most Popular</string>
+    <string name="pref_highest_rated">Highest Rated</string>
+    <string name="setting">Setting</string>
+    <string name="trailer">Movie Trailer</string>
+    <string name="duration">Duration</string>
+    <string name="genre">Genre</string>
+    <string name="review">Review</string>
+</resources>
